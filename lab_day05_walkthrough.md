@@ -20,7 +20,7 @@ Trong bài thực hành này, bạn sẽ đóng vai trò chuyên viên gán nhã
 ### 1.2 Quy Tắc Đặt Tên Repository & File Nộp
 - **Tên Repository GitHub:** `K5-L2-DAY05-HoVaTen-MSSV-MOTTracking`  
   *(Ví dụ: `K5-L2-DAY05-NguyenVanA-20241231-MOTTracking`)*
-- **File báo cáo cá nhân:** `report/individual/MSSV_HoTen.md`  
+- **File báo cáo cá nhân:** `report/individual/2A202603350_HoangDuyVuong.md`  
   *(Ví dụ: `report/individual/20241231_NguyenVanA.md`)*
 - **3 ảnh chụp minh chứng che khuất:**
   - `report/individual/che_1_truoc.png`
@@ -288,8 +288,8 @@ Số frame in theo CVAT (bắt đầu từ 0). Trong gt.txt, frame_id = frame CV
 
 ## 7. Bước 6: Hoàn Thiện Báo Cáo & Quy Tắc An Toàn Git
 
-### 7.1 Cấu Trúc File Báo Cáo `report/individual/MSSV_HoTen.md`
-Mở file mẫu tại `report/individual/MSSV_HoTen.md` và đổi tên thành mã số và họ tên của bạn (ví dụ: `20241231_NguyenVanA.md`). Hoàn thành 7 mục chính:
+### 7.1 Cấu Trúc File Báo Cáo `report/individual/2A202603350_HoangDuyVuong.md`
+Mở file mẫu tại `report/individual/2A202603350_HoangDuyVuong.md` và đổi tên thành mã số và họ tên của bạn (ví dụ: `20241231_NguyenVanA.md`). Hoàn thành 7 mục chính:
 1. **Thông tin chung:** Họ tên, MSSV, Đề (A/B/C), Danh sách 5 đối tượng.
 2. **Bảng phân tích Keyframe:** Thống kê số lượng keyframe đã đặt cho từng đối tượng và giải thích lý do cắm thêm keyframe ở các khúc ngoặt.
 3. **Bảng xử lý che khuất (CP2):** Mô tả chi tiết frame bắt đầu bị che, frame bị che hoàn toàn (outside), frame tái xuất hiện và nhúng 3 ảnh minh chứng:

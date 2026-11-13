@@ -15,7 +15,7 @@ Coach dùng MSSV để [xác nhận mã đề và lọc đúng 5 người](docs/
 | C5 — Keyframe hợp lý (CP1) | 10 | `*_cvat_video.zip`, báo cáo mục 2 | Keyframe ở chỗ rẽ, dừng, đổi kích thước, quanh đoạn che; không dày đều vô cớ. −3 nếu > 50 keyframe / 100 frame ở một người; −3 nếu box trôi rõ giữa hai keyframe |
 | C6 — Tự review (CP3) | 10 | Báo cáo mục 4 | Bảng có đủ hai lượt, đúng tên loại lỗi. −2 mỗi lỗi ID dễ thấy còn trong file nộp mà bảng không ghi; −2 mỗi lỗi gán sai loại; −4 nếu bảng trống mà không ghi "đã kiểm hai lượt" |
 | C7 — File xuất và tự kiểm (CP4) | 5 | `src/exports/`, báo cáo mục 5 | MOT 1.1 mở được, đúng 5 track ID; có CVAT for video 1.1; có kết quả script. −3 sai định dạng; −2 thiếu file thứ hai; −1 không dán kết quả script |
-| C8 — Báo cáo (CP0–CP4) | 5 | `report/individual/MSSV_HoTen.md` | Đủ mục 1–6: xem trước, số keyframe, thời gian, ba câu kết. −1 mỗi mục thiếu |
+| C8 — Báo cáo (CP0–CP4) | 5 | `report/individual/2A202603350_HoangDuyVuong.md` | Đủ mục 1–6: xem trước, số keyframe, thời gian, ba câu kết. −1 mỗi mục thiếu |
 | **Tổng điểm chính** | **100** | | |
 
 ## Bonus (tối đa 10, ghi riêng, không tự cộng vào điểm chính)

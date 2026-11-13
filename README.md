@@ -43,7 +43,7 @@ Sau bài lab, bạn có thể:
    K5-L2-DAY05-HoVaTen-MSSV-MOTTracking
    ```
 
-2. Đổi tên file báo cáo `report/individual/MSSV_HoTen.md` thành MSSV và họ tên của bạn, ví dụ `report/individual/20241234_NguyenVanAn.md`.
+2. Đổi tên file báo cáo `report/individual/2A202603350_HoangDuyVuong.md` thành MSSV và họ tên của bạn, ví dụ `report/individual/20241234_NguyenVanAn.md`.
 3. Đọc theo thứ tự: `RULES.md` → `docs/GUIDELINE.md` → `CHECKPOINTS.md` → `src/README.md` → `RUBRIC.md` → `SUBMISSION.md`.
 4. Mở task vừa tạo trên CVAT máy cá nhân, làm lần lượt CP0 → CP4 trong [CHECKPOINTS.md](CHECKPOINTS.md).
 

@@ -1,18 +1,18 @@
 # Báo cáo cá nhân — HoVaTen-MSSV
 
-Đổi tên file theo quy tắc `MSSV_HoTen.md`. Ví dụ: `20241234_NguyenVanAn.md`.
+Đổi tên file theo quy tắc `2A202603350_HoangDuyVuong.md`. Ví dụ: `20241234_NguyenVanAn.md`.
 
 Đoạn video: MOT17-09, 150 frame (frame 1–150), nguồn MOTChallenge, giấy phép CC BY-NC-SA 3.0.
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
-- Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Họ tên: Hoang Duy Vuong
+- MSSV: 2A202603350
+- Mã đề (A/B/C): A
+- Email: duyvuong12333@gmail.com
+- Link repository: https://github.com/YuSh1nafk/K5-L2B-DAY05-HoangDuyVuong-2A202603350-MOTTracking
+- Giờ bắt đầu: 16:00
+- Giờ kết thúc: 18:40
 
 ## 1. Xem trước đoạn video (CP0)
 
@@ -20,11 +20,11 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | | | | | |
-| P2 | | | | | |
-| P3 | | | | | |
-| P4 | | | | | |
-| P5 | | | | | |
+| P1 |0 |149 |28 |43 | |
+| P2 |68 |149 |87 | | |
+| P3 | 0|149 | | | |
+| P4 |30 |149 | | | |
+| P5 |0 |146 |44 |110 | |
 
 ## 2. Keyframe và thời gian (CP1, CP4)
 
@@ -103,7 +103,8 @@ Lỗi nào chỉ lượt 2 (theo cảnh) mới thấy, lượt 1 (theo người)
 Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
 ```text
-...
+Lỗi: 0   |   Cảnh báo: 1
+Cảnh báo Track7: 57 keyframe / 100 frame > 50. Quá dày, dồn keyframe vào chỗ rẽ / dừng / bị che
 ```
 
 ## 6. Ba câu kết
